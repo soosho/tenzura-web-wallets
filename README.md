@@ -24,27 +24,56 @@
 
 ## 📸 Platform Screenshots
 
-**See Tenzura in Action** - Professional, modern interface designed for crypto trading and wallet management
+**See Tenzura in Action** - Professional, modern interface designed for cryptocurrency wallet management
 
-### 🎯 Key Interface Highlights
+### 👤 **User Interface**
 
-| **💼 Admin Dashboard** | **💰 User Wallet** | **🎁 Faucet System** |
-|:---:|:---:|:---:|
-| Complete analytics & controls | Multi-coin wallet management | Free crypto distribution |
+#### Dashboard & Wallet Management
+![User Dashboard](screenshot/user/dashboard.jpg)
+*Clean, intuitive user dashboard with account overview and quick access to key features*
 
-| **🛒 Buy/Sell Interface** | **📊 Transaction History** | **⚙️ Settings Panel** |
-|:---:|:---:|:---:|
-| Built-in trading platform | Complete audit trails | Comprehensive configuration |
+![User Wallets](screenshot/user/wallets.jpg)
+*Multi-cryptocurrency wallet management with real-time balances*
+
+#### Transactions & Features
+![User Transactions](screenshot/user/transaction.jpg)
+*Comprehensive transaction history with detailed tracking*
+
+![Deposit Interface](screenshot/user/deposit.jpg)
+*Simple and secure cryptocurrency deposit interface*
+
+![Faucet System](screenshot/user/faucet.jpg)
+*Integrated faucet system for free cryptocurrency distribution*
+
+### 🔧 **Admin Panel**
+
+#### Administration Dashboard
+![Admin Dashboard](screenshot/admin/dashboard.jpg)
+*Comprehensive admin dashboard with analytics and system overview*
+
+#### User & Transaction Management
+![User Management](screenshot/admin/users.jpg)
+*Complete user administration tools*
+
+![Transaction Management](screenshot/admin/transactions.jpg)
+*Real-time transaction monitoring and management*
+
+#### System Configuration
+![Coin Management](screenshot/admin/coins.jpg)
+*Cryptocurrency management for adding and configuring supported coins*
+
+![Settings Panel](screenshot/admin/site-settings.jpg)
+*System settings for platform configuration*
 
 ### 📱 **Responsive Design**
-- **Desktop**: Full-featured trading interface
-- **Tablet**: Optimized touch experience  
-- **Mobile**: Complete functionality on-the-go
+- **Desktop**: Full-featured wallet interface
+- **Tablet**: Touch-optimized experience  
+- **Mobile**: Complete wallet functionality
 
-### 🖼️ **View All Screenshots**
-👀 **[See Complete Screenshot Gallery →](https://github.com/soosho/tenzura-web-wallets/tree/main/screenshot)**
+### 🖼️ **View Complete Gallery**
+👀 **[Admin Screenshots (22 images) →](screenshot/admin/README.md)** | **[User Screenshots (12 images) →](screenshot/user/README.md)** | **[Full Gallery →](screenshot/README.md)**
 
-*Screenshots showcase: Admin panels, user dashboards, wallet interfaces, transaction flows, mobile responsiveness, and all major features*
+*Complete screenshot collection showcasing: Admin panels, user dashboards, wallet interfaces, transaction flows, and all major platform features*
 
 ---
 
